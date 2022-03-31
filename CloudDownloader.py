@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 10 21:59:05 2022
-
-@author: Lenovo
-"""
-
 #to run program on console, write:
 #run CloudDownloader.py dijkstra.cs.bilkent.edu.tr/~cs421/descriptor1.txt cs421:bilkent
 import sys
